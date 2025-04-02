@@ -1,0 +1,4 @@
+
+[***] Scan de 192.168.45.63 de 1 à 1000 [***]
+[+] Port 22 ouvert – Service détecté : SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.11
+[+] Port 80 ouvert – Service détecté : Aucune bannière détectée
