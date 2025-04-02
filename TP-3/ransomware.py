@@ -38,8 +38,8 @@ def send_key_to_sftp(key):
     """Envoie la clé de chiffrement au serveur SFTP."""
     sftp_host = "192.168.45.103"  # Remplace avec ton hôte SFTP
     sftp_port = 22  # Port SFTP (généralement 22)
-    sftp_username = "root"  # Nom d'utilisateur pour SFTP
-    sftp_password = "Almeinda5"  # Mot de passe pour SFTP
+    sftp_username = "user"  # Nom d'utilisateur pour SFTP
+    sftp_password = "motdepasse"  # Mot de passe pour SFTP
     remote_path = "/home/sftuser"  # Chemin distant où la clé sera envoyée
 
 >>>>>>> parent of 13b894a (new 6)
